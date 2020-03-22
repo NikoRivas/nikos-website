@@ -160,6 +160,14 @@ footer ul li {
   display: inline-block;
 }
 
+#email {
+  color: grey;
+}
+
+#email:hover {
+  color: black;
+}
+
 a.social {
   display: inline-block;
   text-indent: -9999px;
